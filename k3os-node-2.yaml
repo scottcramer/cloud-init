@@ -17,6 +17,6 @@ k3os:
   server_url: https://k3os-master:6443/
   token: 1GVQbH7SGp7wZXUA5r
   k3s_args:
-  - server
+  - agent
   environment:
     K3S_KUBECONFIG_MODE: 644

@@ -15,7 +15,7 @@ k3os:
         dhcp: true
         mtu: 1500
 #  server_url: https://k3os-master/
-  token: $1GVQbH7SG$p7wZXUA5r
+  token: 1GVQbH7SGp7wZXUA5r
   k3s_args:
   - server
   environment:
